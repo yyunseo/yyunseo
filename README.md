@@ -1,5 +1,7 @@
 # Hi, I'm Yunseo 👋
 
+[English](https://github.com/yyunseo/yyunseo/blob/main/README.en.md)
+
 사용자의 관점에서 문제를 바라보고, **서비스의 전체 흐름을 이해하며 개발하는 엔지니어**입니다.
 
 백엔드 API 개발을 시작으로 AI 서비스, 검색 시스템, 데이터 파이프라인, 클라우드 인프라까지 경험을 넓혀 왔습니다.  
