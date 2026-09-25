@@ -1,6 +1,6 @@
 # Hi, I'm Yunseo 👋
 
-[English](https://github.com/yyunseo/yyunseo/blob/main/README.en.md)
+[English](README.en.md)
 
 사용자의 관점에서 문제를 바라보고, **서비스의 전체 흐름을 이해하며 개발하는 엔지니어**입니다.
 
