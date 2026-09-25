@@ -18,7 +18,7 @@
 ## Activities
 
 - 📚 한성대학교 학술동아리 DC&M
-- 🏆 2026 한이음 드림업
+- 2026 한이음 드림업
 
 ## Certification
 
