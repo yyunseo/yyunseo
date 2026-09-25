@@ -13,7 +13,7 @@ I started with backend API development and have expanded my interests to AI serv
 
 ## Education
 
-- `2021.03 ~ 2027.02`🎓 Hansung University, Department of Computer Engineering
+- `2021.03 ~ 2027.02` 🎓 Hansung University, Department of Computer Engineering
 
 ## Activities
 
