@@ -18,7 +18,7 @@ I started with backend API development and have expanded my interests to AI serv
 ## Activities
 
 - 📚 DC&M, Hansung University Department of Computer Engineering Club
-- 🏆 2026 Hanium Dream-Up Project
+- 2026 Hanium Dream-Up Project
 
 ## Certification
 
